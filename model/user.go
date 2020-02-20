@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"log"
 
-	"backpack/github.com/astaxie/beego/orm"
+	"github.com/astaxie/beego/orm"
 
 	"spider/config"
 
