@@ -1,9 +1,9 @@
 # crawl some user's information by single process
 
-Follow the steps below
-Step 1:
-    创建数据库spider_profile
-    导入本地数据库表结构，文件名：profile_info.sql后，生成profile_info数据表
+Follow the steps below \n\r
+Step 1:\n\r
+    创建数据库spider_profile\n\r
+    导入本地数据库表结构，文件名：profile_info.sql后，生成profile_info数据表\n\r
 Step 2:
     go build main.go 
 Step 3:
